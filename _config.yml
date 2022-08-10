@@ -1,13 +1,13 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: MeditLon
+title: MeditLon | Personal Page For Public
+description: I'm MeditLon, a design-minded one who is Still learning New Stuff, FOSS Supporter & Cyber Nerd
+url: https://meditlon.github.io/
 baseurl: ''
 email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+cover: https://meditlon.github.io/img/og.png
+logo: https://meditlon.github.io/img/emojis/technologist.png
+resume: https://meditlon.github.io/resume.pdf
 social:
   - title: email
     url: mailto:brittany.chiang@gmail.com
