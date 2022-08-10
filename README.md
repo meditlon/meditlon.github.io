@@ -12,7 +12,7 @@ First iteration of my personal website built with Jekyll.
 
 ## Inspiration
 
-https://bchiang.github.io  
+https://bchiang7.github.io  
 make a visit really usefull
 
 ## Getting Started
