@@ -10,7 +10,7 @@ First iteration of my personal website built with Jekyll.
 
 - [Gulp](https://gulpjs.com/)
 
-##Inspiration
+## Inspiration
 
 https://bchiang.github.io  
 make a visit really usefull
