@@ -1,0 +1,31 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: C##
+  - item: HTML
+  - item: CSS
+  - item: Python
+  - item: Shell
+  - item: Others..
+
+frameworks:
+  - item: Gitlab Pages
+  - item: Github Pages
+  - item: Jekyll
+  - item: Node
+  - item: Wordpress
+  - item: Carrd
+
+tools:
+  - item: Bash
+  - item: Git
+  - item: GitHub
+  - item: Chrome DevTools
+  - item: Gitlab
+  - item: Firefox DevTools
+
+design:
+  - item: Sketch
+  - item: GIMP
+  - item: InkScape
+  - item: Kdenlive
+
