@@ -1,4 +1,4 @@
-- name: Termalc
+- name: Termalc V1
   url: https://github.com/meditlon/termalc
   code: https://github.com/meditlon/termalc
   description: A Simple Terminal based calculator made with python during my python programing language beginner course.
@@ -14,21 +14,21 @@
   code: https://github.com/meditlon/meditlon.github.io
   description: A Simple Personal Portfolio website made with HTML, CSS Javascript, with help of jeykill and take a huge inspiration from 'Bchiang' Mentioned on project page.
   used:
-    - thing: Gatsby
-    - thing: Sublime Text
-    - thing: Atom
-    - thing: VS Code
-    - thing: iTerm2
-    - thing: Hyper
+    - thing: HTML
+    - thing: CSS
+    - thing: Js
+    - thing: GH Pages
+    - thing: Jeykill
+    - thing: Simple
 
-- name: Lonely Planet DBMS
-  url: https://github.com/bchiang7/CS3200-Project
-  code: https://github.com/bchiang7/CS3200-Project
-  description: Final project for my Database Design course at Northeastern. A simple web application that allows users to filter through a database containing Lonely Planet's <a class="underline-link" href="https://www.amazon.com/Lonely-Planets-Ultimate-Travel-Places/dp/1760342777" target="_blank">Top 500 Travel Destinations</a>. Users are able to add themselves as visitors as well as leave reviews of the destinations.
+- name: Aerial V1
+  url: https://github.com/meditlon/aerial
+  code: https://github.com/meditlon/aerial
+  description: A Simple, One Page HTML CSS JS Webpage with simple elements, showing only basic information with a nice look and feel. With the KISS[Keep It Simple Stupid] Concept
   used:
-    - thing: Python
-    - thing: MySQL
-    - thing: Flask
+    - thing: Simple
+    - thing: GH Pages
+    - thing: ErroR
     - thing: HTML
     - thing: CSS
     - thing: JavaScript
